@@ -1,0 +1,24 @@
+p{
+    color: red;
+    font-size: medium;
+    font-style: italic;
+   text-decoration: underline;
+   word-spacing: 7px;
+   background-color: rgb(134, 134, 250);
+}
+h3{
+    color: red;
+    font-size: larger;
+    font-style: var();
+    text-decoration: overline;
+    letter-spacing: 7px;
+    background-color: rgb(121, 245, 245);
+}
+i{
+    color: red;
+    font-size: larger;
+    font-style: var();
+    text-decoration: overline;
+    letter-spacing: 27px;
+    background-color: rgb(143, 248, 122);
+}
